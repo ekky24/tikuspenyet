@@ -1,0 +1,33 @@
+kelinci.png
+size: 50, 316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kelinci
+  rotate: false
+  xy: 0, 0
+  size: 50, 80
+  orig: 50, 80
+  offset: 0, 0
+  index: 1
+kelinci
+  rotate: false
+  xy: 0, 80
+  size: 50, 80
+  orig: 50, 80
+  offset: 0, 0
+  index: 2
+kelinci
+  rotate: false
+  xy: 0, 160
+  size: 50, 80
+  orig: 50, 80
+  offset: 0, 0
+  index: 3
+kelinci
+  rotate: false
+  xy: 0, 240
+  size: 50, 76
+  orig: 50, 76
+  offset: 0, 0
+  index: 4

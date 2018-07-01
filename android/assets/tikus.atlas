@@ -1,0 +1,33 @@
+tikus.png
+size: 184, 63
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tikus
+  rotate: false
+  xy: 0, 0
+  size: 47, 63
+  orig: 47, 63
+  offset: 0, 0
+  index: 1
+tikus
+  rotate: false
+  xy: 47, 0
+  size: 41, 63
+  orig: 41, 63
+  offset: 0, 0
+  index: 2
+tikus
+  rotate: false
+  xy: 88, 0
+  size: 46, 63
+  orig: 46, 63
+  offset: 0, 0
+  index: 3
+tikus
+  rotate: false
+  xy: 134, 0
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: 4
